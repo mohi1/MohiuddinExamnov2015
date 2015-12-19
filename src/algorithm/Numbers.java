@@ -37,7 +37,7 @@ public class Numbers {
 
 		final long endTime = System.currentTimeMillis();
 		final long executionTime = endTime - startTime;
-		System.out.println("Total Execution Time in ms : " + executionTime + " sec");
+		System.out.println("Total Execution Time : " + executionTime + " milli sec");
 	}
 
 }
