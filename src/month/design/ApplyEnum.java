@@ -11,6 +11,7 @@ public class ApplyEnum {
 		 * will implement a method using switch...case. Once the whole usable process is done,
 		 * create an object in this main method to demonstrate the Enum feature in java.
 		 */
+		
 
 	}
 

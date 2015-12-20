@@ -6,18 +6,35 @@ What is IDE?
 What are the IDEs available in the market to support java?
 Explain the entire java life cycle.
 what is class?
+A class is a blueprint for an object
 What is object?
 What is the entry point of an application?
 Why main is static?
+main needs to run at startup without object initiation so we declare it static so that it can be accesed outside class and without an object is created.
 What is the difference between an Interface and Abstract class?
+an interface
 Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
+no you cannot make an object from interface and abstract class.
 what is Access Specifier?
+Access specifier is declared to specify who can access the class or variables
 What is OOP ? Define each feature of java OOP.
+oop means object oriented programming
+the features of oop is object, class, inheritance, polymorphism, abstraction, encapsulation.
+object: any entity that has state and behavior is known as an object
+class:collection of objects is called a class.
+inheritance: when one object acquires all the properties and behaviors of parent object its called inheritance.
+polymorphism:when one task is performed by different ways its known as polymorphism.
+abstraction: hiding internal details and showing functionality is known as abstraction.
+encapsulation: binding or wrapping code and data together into a single unit is known as encapsulation.
 What is API? Name list of API that you have used so far.
 Does java support multiple inheritance?
+no it doesnt
 What is method overloading and when it happens?
+if a class have multiple methods by same name but different parameters, it is known as method overloading.
 What is method overriding and when it happens?
+if subclass provides the specific implementation of the method that has been provided by one of its parent class, it is known as method overriding.
 Explain exceptions in java and how to handle it.
+in java exception is an event that disrupts the normal flow of the program. it is an object which is thrown at runtime.
 What is static keyword in java? How it has been used in variables and methods ?
 What is final and how it has been used variables and methods?
 What is final, finally and finalize?
